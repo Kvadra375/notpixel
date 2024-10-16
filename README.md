@@ -75,7 +75,7 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/YarmolenkoD/notpixel) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**][(https://github.com/YarmolenkoD/notpixel](https://github.com/Kvadra375/notpixel.git)) by cloning it to your system and installing the necessary dependencies:
 ```shell
 git clone https://github.com/YarmolenkoD/notpixel.git
 cd notpixel
