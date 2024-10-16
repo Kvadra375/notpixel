@@ -99,7 +99,6 @@ python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
 cp .env-example .env
-nano .env  # Here you must specify your API_ID and API_HASH, the rest is taken by default
 python3 main.py
 ```
 
